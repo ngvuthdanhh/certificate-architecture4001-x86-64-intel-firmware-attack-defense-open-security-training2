@@ -46,7 +46,7 @@ This Code applies to all project spaces and related communities:
 If you witness or experience unacceptable behavior, please report it to the maintainer directly:
 
 - 📧 Email: ngvu.thdanh@gmail.com  
-- 🧑‍💻 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)
+- 🧑‍💻 GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)
 
 All reports will be handled confidentially and professionally.
 
@@ -60,3 +60,4 @@ This Code of Conduct is based on the [Contributor Covenant](https://www.contribu
 ---
 
 © 2025 ngvtdanhh – Cybersecurity Knowledge Sharing Project.
+
