@@ -1,25 +1,11 @@
-# 🛡️ Architecture 4001: Intel Firmware Attack & Defense
+# Architecture 4001: Intel Firmware Attack & Defense
 
-> *A structured, certificate-backed notebook on Intel x86-64 platform firmware security.*
+Welcome to **Architecture 4001** notes. This is a curated notebook for learning and sharing defensive knowledge about Intel x86-64 firmware, including boot flow, SPI flash, UEFI, Intel ME, SMM, and hardware-based protections.
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
-[![Build Docs](https://img.shields.io/github/actions/workflow/status/username/certificate-arch4001/mkdocs.yml?branch=main)]()
+![Certificate Architecture 4001: Intel Firmware Attack & Defense](cert/Architecture%204001%20x86-64%20Intel%20Firmware%20Attack%20%26%20Defense.png)
 
----
-
-## 🎯 Goals
-- 📚 Consolidate learning notes into structured documentation
-- 🖼️ Visualize the boot chain and trust boundaries
-- 🛡️ Provide defense-first takeaways for practitioners
-- 🎓 Share certificate snapshots as study receipts
-
----
-
-![UEFI Diagram](images/diagram-uefi-boot-flow.png){ width="600" }
-*Figure: Simplified UEFI boot flow overview.*
-```
-
----
-
-
-```
+## Goals
+- Consolidate learning into structured notes.
+- Visualize the boot chain and trust boundaries.
+- Provide defense-first takeaways for practitioners.
+- Share certificate snapshots as proof of progress.
