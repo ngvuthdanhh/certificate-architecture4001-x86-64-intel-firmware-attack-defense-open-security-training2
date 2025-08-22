@@ -86,7 +86,9 @@ It is designed as a **community knowledge base** for both Red Team and Blue Team
 ## ✍️ Author
 
 **Thành Danh** – Red Team Learner | Pentester & Security Researcher  
+
 GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)  
+
 Email: **ngvu.thdanh@gmail.com**
 
 ---
