@@ -6,8 +6,8 @@
 ![Focus](https://img.shields.io/badge/Focus-Firmware%20Security-informational?style=flat-square&logo=linux)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
-This repository contains structured notes, diagrams, checklists, extra references, and a certificate of completion for the **Architecture 4001 – x86-64 Intel Firmware Attack & Defense** course.  
-It aims to serve as a **community knowledge base** for both Red Team & Blue Team learners.
+This repository contains structured notes, diagrams, checklists, extended resources, and the certificate of completion for the **Architecture 4001 – x86-64 Intel Firmware Attack & Defense** course.  
+It is designed as a **community knowledge base** for both Red Team and Blue Team practitioners.
 
 ---
 
@@ -24,17 +24,17 @@ It aims to serve as a **community knowledge base** for both Red Team & Blue Team
 
 ## 📋 Checklists & Security Guides
 
-- ✅ [`firmware-hardening.md`](./content/checklists/firmware-hardening.md) – Practical hardening checklist  
+- ✅ [`firmware-hardening.md`](./content/checklists/firmware-hardening.md) – Practical firmware hardening checklist  
 - 🛡️ [`platform-security-controls.md`](./content/blue-team/platform-security-controls.md) – Blue Team perspective  
-- 🎯 [`threat-modeling-only.md`](./content/red-team/threat-modeling-only.md) – Red Team threat modeling concepts  
+- 🎯 [`threat-modeling-only.md`](./content/red-team/threat-modeling-only.md) – Red Team threat modeling  
 
 ---
 
 ## 📂 Documentation
 
 - 📑 [`syllabus.md`](./docs/syllabus.md) – Course syllabus overview  
-- 🛠️ [`roadmap.md`](./docs/roadmap.md) – Suggested learning path  
-- 📖 [`glossary.md`](./docs/glossary.md) – Terminology explained  
+- 🛠️ [`roadmap.md`](./docs/roadmap.md) – Suggested learning roadmap  
+- 📖 [`glossary.md`](./docs/glossary.md) – Key terminology explained  
 - 📚 [`references.md`](./docs/references.md) – Research papers & references  
 
 ---
@@ -43,7 +43,7 @@ It aims to serve as a **community knowledge base** for both Red Team & Blue Team
 
 - 🕒 [`timeline.md`](./extras/timeline.md) – Evolution of firmware attacks & defenses  
 - 📂 [`case-studies.md`](./extras/case-studies.md) – Real-world case studies  
-- 📘 [`resources.md`](./extras/resources.md) – Extended resources  
+- 📘 [`resources.md`](./extras/resources.md) – Extended learning resources  
 
 ---
 
@@ -68,6 +68,18 @@ It aims to serve as a **community knowledge base** for both Red Team & Blue Team
 ## 📜 Certificate
 
 🎓 [`Architecture 4001 – Intel Firmware Attack & Defense`](./cert/Architecture%204001%20x86-64%20Intel%20Firmware%20Attack%20%26%20Defense.png)
+
+---
+
+## 📝 Reflections
+
+> Personal takeaways after completing this course:
+
+- **Strengths**: The course provides deep technical coverage from hardware architecture to firmware security mechanisms, especially SMM, Intel ME, and Boot Guard.  
+- **Challenges**: The labs demand strong background knowledge in OS internals, assembly, and hardware. Without that, the learning curve feels steep.  
+- **Practical Relevance**: Extremely useful for Red Teams analyzing firmware persistence and for Blue Teams implementing platform security controls.  
+- **Most impressive part**: The LoJax rootkit case study — showing that firmware attacks are not just theory, but real-world threats.  
+- **My own growth**: I became much more confident in reading firmware specifications, applying hardening checklists, and preparing for Red Team projects.  
 
 ---
 
