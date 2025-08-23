@@ -85,11 +85,11 @@ It is designed as a **community knowledge base** for both Red Team and Blue Team
 
 ## ✍️ Author
 
-**Thành Danh** – Red Team Learner & Security Researcher
+**Thành Danh** – Red Team Learner & Security Researcher  
 
-GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)  
+- GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)  
 
-Email: **ngvu.thdanh@gmail.com**
+- Email: ngvu.thdanh@gmail.com  
 
 ---
 
